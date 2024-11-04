@@ -1,5 +1,7 @@
 # DJL-test
-Dubreil-Jacotin-Long (DJL) 
+Dubreil-Jacotin-Long (DJL)  3D test case.
+
+ Warning run only Hm
 
 developed in indian institute of technology kharagpur
 
